@@ -1,5 +1,3 @@
 ```
-git clone https://github.com/chrishazfun/arch
-cd arch
-./arch.sh
+git clone https://github.com/chrishazfun/arch; cd arch; ./arch.sh
 ```
